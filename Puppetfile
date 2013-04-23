@@ -2,6 +2,7 @@ forge "http://forge.puppetlabs.com"
 
 mod 'puppetlabs/stdlib'
 mod 'spiette/selinux'
+mod 'torrancew/account'
 
 mod 'epel',
     :git => 'https://github.com/stahnma/puppet-module-epel.git'
